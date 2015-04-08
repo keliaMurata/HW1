@@ -3,7 +3,7 @@
 	Seaweed Project
 	A Polyline quiz: creates a curved polyline that is shaped, colored, and has a 
 	swaying movement to mimic sea weed underwater.
-	Version 2.0, retry
+	Version 2.0, retry: Complete. 
 
 */
 
