@@ -21,7 +21,9 @@ class ofApp : public ofBaseApp
 		void gotMessage(ofMessage msg);
 
 		ofPolyline seaweed;
-		ofPoint basePoint, midPoint, endPoint, finalPoint;
-
-		
+		ofPoint basePoint, staticPoint, midPoint, endPoint;
+		float width;
+		float height;
+		float midMomentum; 
+		float endMomentum;
 };
